@@ -41,14 +41,8 @@ This is a technical experiment to test whether or not one can actually use a Dis
 3. Python
 
 
-+-----------------------+        JSON / IPC / REST        +-----------------------+
-|   Discord.js Service  |  <---------------------------->  |   Python Service      |
-|  (Handles Discord I/O)|                                 |  (Handles Data Logic)  |
-+-----------------------+                                 +-----------------------+
-        |   ^                                                      |    ^
-        |   |                                                      |    |
-        |   +--- Responds to users with results --------------------+   |
-        |---------------------------------------------------------------|
+<img width="714" height="152" alt="image" src="https://github.com/user-attachments/assets/46c4494d-03f8-439e-a7c2-567293269331" />
+
 
 
 ## Installation & Use (TBD)
